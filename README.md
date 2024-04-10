@@ -1,6 +1,6 @@
 # nitro generator
-RESEARCH PURPOSES ONLY
-features:
+# RESEARCH PURPOSES ONLY
+# features:
 -nitro generator
 -auto account generator
 -ip change to 
